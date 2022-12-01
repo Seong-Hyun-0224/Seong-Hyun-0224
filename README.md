@@ -1,4 +1,5 @@
-### Hi there 👋
+### History
+2019.03. ~ , student at SangMyung University in Seoul, Department of Human-centered AI.
 
 <!--
 **Seong-Hyun-0224/Seong-Hyun-0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
