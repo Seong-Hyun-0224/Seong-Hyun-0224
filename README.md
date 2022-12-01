@@ -1,4 +1,4 @@
-### History
+### Stutus
 2019.03. ~ , student at SangMyung University in Seoul, Department of Human-centered Artificial Intelligence.
 
 <!--
