@@ -13,6 +13,8 @@
 * Korean History Proficiency Test - _1st class(2020.02.21. / National Institute of Korean Histroy)_
 * CERTIFICATE OF QUALIFICATION TO _PROVIDE MEDICAL CARE(2022.11.11. / KOREA INSTITUTE OF MARITIME AND FISHERIES TECHINOLOGY)_
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seong-Hyun-0224)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Seong-Hyun-0224/Seong-Hyun-0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
