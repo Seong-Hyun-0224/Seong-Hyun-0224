@@ -6,7 +6,7 @@ Seong Hyun Kim, Republic of Korea.
 
 2. Computer License skills (Acquisition date / registration authority)
 * python master - 3rd class(2022.07.15. / KAIT)
-* Information Technology Qualification - total B class(2011 ~ 2012 / kpc)
+* Information Technology Qualification - average B class(2011 ~ 2012 / kpc)
 
    
 
