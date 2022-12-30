@@ -11,7 +11,11 @@
 
 ### 3. Non-Computer license skills (Acquisition date / registration authority)  
 * Korean History Proficiency Test - _1st class(2020.02.21. / National Institute of Korean Histroy)_
-* CERTIFICATE OF QUALIFICATION TO _PROVIDE MEDICAL CARE(2022.11.11. / KOREA INSTITUTE OF MARITIME AND FISHERIES TECHINOLOGY)_
+* CERTIFICATE OF QUALIFICATION TO _PROVIDE MEDICAL CARE(2022.11.11. / KOREA INSTITUTE OF MARITIME AND FISHERIES TECHINOLOGY)_  
+
+### 4. skills / interest
+* skills at C, C++, python, Java.
+* interest in Human Computer Interface, Machine Learning(ex. Object detection, Natural Language Processing, patten recognition), device and image analysis in medicine.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seong-Hyun-0224)](https://github.com/anuraghazra/github-readme-stats)
 
