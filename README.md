@@ -15,7 +15,7 @@
 
 ### 4. skills / interest
 * skills at C, C++, python, Java.
-* interest in Human Computer Interface, Machine Learning(ex. Object detection, Natural Language Processing, patten recognition), device and image analysis in medicine.  
+* interest in Human Computer Interface, Machine Learning(ex. Object detection, Natural Language Processing, patten recognition), Computer vision, device and image analysis in medicine.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seong-Hyun-0224)](https://github.com/anuraghazra/github-readme-stats)
 
