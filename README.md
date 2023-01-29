@@ -9,7 +9,7 @@
 
    
 
-### 3. Non-Computer license skills (Acquisition date / registration authority)  
+### 3. Naitonal Certificate (Acquisition date / registration authority)  
 * Korean History Proficiency Test - _1st class(2020.02.21. / National Institute of Korean Histroy)_
 * CERTIFICATE OF QUALIFICATION TO _PROVIDE MEDICAL CARE(2022.11.11. / KOREA INSTITUTE OF MARITIME AND FISHERIES TECHINOLOGY)_  
 
