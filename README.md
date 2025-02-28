@@ -1,7 +1,7 @@
 # Profile
 
 ### 1. Education / Major   
-2019.03. ~ 2025.02., student at SangMyung University in Seoul / Department of the *Human-centered Artificial Intelligence*.
+2019.03. ~ 2025.02., student at SangMyung University in Seoul / Department of the *Human-centered Artificial Intelligence*.  
 2025.02. ~ present, Master course student at graduate school in DGIST / Department of the *Interdisciplinary Studies of Artificial Intelligence*.
 
 ### 2. Computer License skills (Acquisition date / registration authority)
